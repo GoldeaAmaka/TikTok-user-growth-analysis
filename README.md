@@ -51,3 +51,6 @@ These insights can be used by product and growth teams to:
 - Optimise acquisition spend
 - Increase long-term user retention
 
+## This is the link for the chart visualisation of the analysis 
+https://github.com/GoldeaAmaka/TikTok-user-growth-analysis/tree/main/Visualisation%20charts
+
